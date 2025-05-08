@@ -13,4 +13,4 @@ Ploggo is a gamified fitness and environmental tracking app that motivates users
 
 ## 🎥 Demo
 
-[![Watch Demo](https://img.youtube.com/vi/tRiI0dYkT1Q/0.jpg)](https://youtu.be/tRiI0dYkT1Q?si=uGz5XgzHiLbqSs0Y)
+[![Watch Demo]](https://youtu.be/tRiI0dYkT1Q?si=uGz5XgzHiLbqSs0Y)
